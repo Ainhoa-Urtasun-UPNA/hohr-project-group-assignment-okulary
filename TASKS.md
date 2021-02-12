@@ -14,7 +14,7 @@ This U.S. industry comprises establishments primarily engaged in manufacturing o
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-*** 1. Cooper Companies INC nª of employees= 11800 employees 
+    1. Cooper Companies INC nª of employees= 11800 employees 
     2. Bausch&Lomb Holdings INC nº of employees = 4237 employees
     3. Essilor America Holding Co INC nº of employees= 3994 employees
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
