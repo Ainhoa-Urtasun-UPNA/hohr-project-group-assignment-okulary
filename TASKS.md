@@ -2,15 +2,19 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
+
 ***
-* Your company's name:
+* Your company's name: OKULARY
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
-
+33915 Ophthalmic Goods Manufacturing
+This U.S. industry comprises establishments primarily engaged in manufacturing ophthalmic goods. Examples of products made by these establishments are prescription eyeglasses (except manufactured in a retail setting), contact lenses, sunglasses, eyeglass frames, reading glasses made to standard powers, and protective eyewear.
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
-***
+*** 1. Cooper Companies INC nª of employees= 11800 employees 
+    2. Bausch&Lomb Holdings INC nº of employees = 4237 employees
+    3. Essilor America Holding Co INC nº of employees= 3994 employees
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
