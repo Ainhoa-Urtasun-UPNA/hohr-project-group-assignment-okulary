@@ -82,15 +82,32 @@ Associate's degrees  15%
 * Top industry: Manufacturing 75%
 
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title: Materials Engineer 17-2131.00
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* 83-Analyse product failure data and laboratory test results to determine causes of problems and development solutions
+80-Design and Direct the testing of control of procesing procedure
+79-Monitor Material Performance and evaluate material deterioration 
+78-Conduct and supervise test on Raw Materials or finished products to evaluate quality
+78-Evaluate Technological specifications and economic factors, relating to process or product design objectives
+* Is this job routine? Your judgment (0-10): 5/10
+* Is this job cognitive? Your judgment (0-10): 8/10
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 75-Active Listening
+75-Complex Problem Solving
+75-Reading Comprehension
+75-Science
+72-Critical Thinking
 * 5 technology skills
+* Analytical on Scientific Software
+Computer aided manufacturing CAD software
+Computer aided manufacturing CAM software
+Data Base user interface and query software
+Development environment software
 * Education:
+* Bachelor Degree
 * Wages:
-* Top industry: 
+* 45$/hour 93.360$ yearly
+* Top industry: Manufacturing (56%) or Professional, Scientific and Technical Service(23%)
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
