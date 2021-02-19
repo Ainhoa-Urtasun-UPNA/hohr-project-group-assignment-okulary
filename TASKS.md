@@ -22,8 +22,8 @@ This U.S. industry comprises establishments primarily engaged in manufacturing o
     
 * List of your company's primary activities divided into engineering activities and operations activities:
   Primary activities: 
- - Engineering activities : Design process and R&D activities
- - Operations activities: 3d printers operators, finishing and quality process activity.
+ - Engineering activities : Design process, Resarch and Development activities, product development, prototyping activities
+ - Operations activities: 3d printers operators, finishing and quality process activit, assembly activities, prodtction works
     
    
 * List of your company's support activities:
