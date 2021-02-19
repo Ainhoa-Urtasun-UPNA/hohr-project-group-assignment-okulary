@@ -33,11 +33,22 @@ This U.S. industry comprises establishments primarily engaged in manufacturing o
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-3051.00 - Industrial Production Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* 
+* 1. Review processing schedules or production orders to make decisions concerning inventory requirements, staffing requirements, work procedures, or duty assignments, considering budgetary limitations and time constraints.See more occupations related to this task.
+ 2.Direct or coordinate production, processing, distribution, or marketing activities of industrial organizations.See more occupations related to this task.
+ 3.Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production  problems.See more occupations related to this task.
+ 4. Review operations and confer with technical or administrative staff to resolve production or processing problems.See more occupations related to this task.
+ 5. Hire, train, evaluate, or discharge staff or resolve personnel grievances.
+* Is this job routine? Your judgment (0-10): Score: 6 In my opinion this job at first is really dynamic because the process of desinging and developing a new type of sunglasses is challenging. Once it is created the job routine become more and more boring because what the manager has to do is to 
+* Is this job cognitive? Your judgment (0-10): Score: 7 : I think that managers has to have a wide view of the industry and that they have to be very open minded to try to anticipating to the markets movements and consumers preferences.
 * 5 most important skills they require to possess (provide the importance score, in Details):
+Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
+Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
+Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+Time Management — Managing one's own time and the time of others.
 * 5 technology skills:
 * Education:
 * Wages:
