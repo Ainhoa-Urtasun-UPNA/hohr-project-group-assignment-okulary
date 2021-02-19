@@ -91,16 +91,57 @@ Associate's degrees  15%
 * Education:
 * Wages:
 * Top industry: 
+* 
 ### Operators
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* ONET-SOC code and title: Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic.
+* 
+* 5 most important tasks they carry out (provide the importance score, in Details): 
+* 1-	Measure and visually inspect products for surface and dimension defects to ensure conformance to specifications, using precision measuring instruments.
+* 
+2-	Observe continuous operation of automatic machines to ensure that products meet specifications and to detect jams or malfunctions, making adjustments as necessary.
+
+3-	Set up, operate, or tend metal or plastic molding, casting, or coremaking machines to mold or cast metal or thermoplastic parts or products.
+
+4-	Turn valves and dials of machines to regulate pressure, temperature, and speed and feed rates, and to set cycle times.
+
+5-	Read specifications, blueprints, and work orders to determine setups, temperatures, and time settings required to mold, form, or cast plastic materials, as well as to plan production sequences.
+
+* Is this job routine? Your judgment (0-10): 6,8. We believe that it is a quite repetitive job watching at the main five tasks that implies this type of occupation. But we also think that performing the revision of the machines and their performance they can face different challenges that vary every day.
+* 
+* Is this job cognitive? Your judgment (0-10): 4,3. Watching at the different tasks it looks like that for this type of job the cognitive level required is not especially high. Nevertheless, it is always helpful and positive to have a minimum of knowledge of your task environment in order to fulfil satisfactorily the main problems.
+* 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 1-	Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. (Score:60)
+* 
+2-	Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. (Score: 56)
+
+3-	Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. (Score: 53)
+
+4-	Operation and Control — Controlling operations of equipment or systems. (Score: 53)
+
+5-	Reading Comprehension — Understanding written sentences and paragraphs in work related documents. (Score: 53)
+
 * 5 technology skills:
+* 1-	Analytical or scientific software — HotFlo! Die-Shot Monitor
+* 
+2-	Computer aided manufacturing CAM software — Intera Systems Hawk-i; RobotWare DieCast; Visi-Trak True-Trak 20/20
+
+3-	Industrial control software — FANUC Robotics iRVision
+
+4-	Office suite software — Microsoft Office 
+
+5-	Spreadsheet software — Microsoft Excel 
+
 * Education:
-* Wages:
-* Top industry:
+* 1-	High school diploma or equivalent
+* 
+2-	Less than high school diploma
+
+3-	Post-secondary certificate
+
+* Wages: MEDIAN WAGE (2019): $15.45 hourly, $32,130 annual.
+* 
+* Top industry: TOP INDUSTRIES (2019): Manufacturing (91% employed in this sector).
 ***
 
 ## Task 3
