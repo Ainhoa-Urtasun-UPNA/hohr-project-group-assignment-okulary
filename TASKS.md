@@ -36,23 +36,37 @@ This U.S. industry comprises establishments primarily engaged in manufacturing o
 * ONET-SOC code and title: 11-3051.00 - Industrial Production Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * 
-* 1. Review processing schedules or production orders to make decisions concerning inventory requirements, staffing requirements, work procedures, or duty assignments, considering budgetary limitations and time constraints.See more occupations related to this task.
- 2.Direct or coordinate production, processing, distribution, or marketing activities of industrial organizations.See more occupations related to this task.
- 3.Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production  problems.See more occupations related to this task.
- 4. Review operations and confer with technical or administrative staff to resolve production or processing problems.See more occupations related to this task.
- 5. Hire, train, evaluate, or discharge staff or resolve personnel grievances.
+* 1. Review processing schedules or production orders to make decisions concerning inventory requirements, staffing requirements, work procedures, or duty assignments, considering budgetary limitations and time constraints.See more occupations related to this task. SCORE: 81
+ 2.Direct or coordinate production, processing, distribution, or marketing activities of industrial organizations.See more occupations related to this task. SCORE: 81
+ 3.Develop or implement production tracking or quality control systems, analyzing production, quality control, maintenance, or other operational reports to detect production  problems.See more occupations related to this task. SCORE:81
+ 4. Review operations and confer with technical or administrative staff to resolve production or processing problems.See more occupations related to this task. SCORE:79
+ 5. Hire, train, evaluate, or discharge staff or resolve personnel grievances. SCORE: 75
 * Is this job routine? Your judgment (0-10): Score: 6 In my opinion this job at first is really dynamic because the process of desinging and developing a new type of sunglasses is challenging. Once it is created the job routine become more and more boring because what the manager has to do is to 
-* Is this job cognitive? Your judgment (0-10): Score: 7 : I think that managers has to have a wide view of the industry and that they have to be very open minded to try to anticipating to the markets movements and consumers preferences.
+* Is this job cognitive? Your judgment (0-10): Score: 7 : I think that managers have to have a wide view of the industry and that they have to be very open minded to try to anticipating to the markets movements and consumers preferences.
 * 5 most important skills they require to possess (provide the importance score, in Details):
-Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
-Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
-Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
-Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
-Time Management — Managing one's own time and the time of others.
+Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. SCORE:75
+Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill. SCORE: 75
+Speaking — Talking to others to convey information effectively.See more occupations related to this skill. SCORE:75
+Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill. SCORE: 72
+Time Management — Managing one's own time and the time of others. SCORE: 72
 * 5 technology skills:
+*Analytical or scientific software — Landfill gas analysis software; Landtec System Software LFG Pro; Minitab Hot technologySee more occupations related to this technology.
+Calendar and scheduling software — Computer integrated manufacturing CIM software; Employee scheduling software; WorkSchedule.netSee more occupations related to this technology.
+Data base user interface and query software — Database software; Exact Software JobBOSS; FileMaker Pro; Scadex Technologies MAESTROSee more occupations related to this technology.
+Document management software — Adobe Systems Adobe Acrobat Hot technology ; QUMASSee more occupations related to this technology.
+Electronic mail software — Email software; IBM Notes Hot technology ; Microsoft Outlook Hot technology
+* 
+*  
+*    
+* 
 * Education:
+* Bachelor degree 42%
+* Some college, no degree 30%
+* Associate's degrees  15%
 * Wages:
-* Top industry:
+* According to ONET in 2019 the median wage for Industrial Production Managers was $105,480 annually, $50,71 hourly.
+* Top industry: Manufacturing 75%
+* 
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
@@ -62,7 +76,7 @@ Time Management — Managing one's own time and the time of others.
 * 5 technology skills
 * Education:
 * Wages:
-* Top industry:
+* Top industry: 
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
