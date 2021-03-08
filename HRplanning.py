@@ -1,11 +1,12 @@
 import numpy
 
 # Forecasting number of available workers
-D = numpy.array([[],[],[]])
-M = numpy.array([[],[],[]])
-b = numpy.array([[],[],[]])
+D = numpy.array([[15,0,0],[0,20,0],[0,0,50]])
+M = numpy.array([[5,2,0],[0,10,0],[5,5,45]])
+b = numpy.array([[2],[1],[1]])
 a = M@numpy.linalg.inv(D)@b
-print(a)
+print(a) 
+The predicted number of employees is 1 manager, 1 engenieer and 2 operators.
 
 # Forecasting number of needed workers
 X = numpy.array([[],[],[],[],[],[],[],[],[]])
