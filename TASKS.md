@@ -181,8 +181,88 @@ Thus, in order to solve this problem, we would have to do some upsizing strategi
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+*Job title*: MANAGER 
+Occupation: Industrial Production Manager. 11-3051.00
+Industry: 33915  Ophthalmic Goods Manufacturing
+*List of tasks:*
+-	Direct and coordinate production process of the sunglasses
+-	Develop production tracking or quality control systems, analyzing production, quality and maintenance
+-	Review processing schedules or production orders to make decisions concerning inventory requirements, staff requirements, work procedures or duty assignments
+*List of skills:*
+1-	Assessing performance of the employees, other individuals or other organizations to make improvements or take corrective actions.
+2-	Speaking ability
+3-	Critical thinking
+4-	Time management; manager time of employees and organize accurate schedules.
+*Required credentials and years of experience*
+Bachelor’s in business management or Economics
+Advanced level of English (C1 required)
+Knowledge of French and German.
+5 years of experiences in related jobs 
+FULL TIME job, flexible time 40 hours/week
+*Location
+*Remote, Online
+Salary
+$ 100,000 yearly + extra bonus if performance is over the expected.
+
+The job offer is for 3 vacancies. 
+
+After doing the predictions of employee's demand and employee´s need, we have decided that the number of managers needed is 3. Their task would be to lead the company to achieve sales objectives and also, providing the firm a good organization and a good performance
+
 ### Job posting for Engineers:
+*Job title*: ENGINEER
+Occupation: Materials Engineer 17-2131.00
+Industry: 33915  Ophthalmic Goods Manufacturing
+*List of tasks:*
+1 Analyse product failure data and laboratory results to determine causes of problems and development solutions
+2 design and Direct the testing of control of processing procedure
+3 monitor material performance and evaluate product deterioration
+4 conduct and supervise test on Raw Materials or finished products to evaluate quality
+5 evaluate technological specifications and economic factors, relating to process or product design objectives
+*List of skills:*
+1 active listening
+2 complex problem solving
+3 reading comprehension
+4 science
+5 critical thinking
+
+*Required credentials and years of experience*
+Bachelor’s in Industrial Engineering or relaated Engineering
+Advanced level of English (C1 required)
+5 years of experiences in related jobs 
+FULL TIME job, flexible time 40 hours/week
+*Location
+*Remote, Online
+Salary
+$90,000 yearly
+The job offering is 10 jobs 
+
+
 ### Job posting for Operators:
+*Job title*: 3D-PRINTER OPERATOR
+Occupation: Molding,coremaking and castling machine settlers, operators and tenders, metal and plastic.
+Industry: 33915  Ophthalmic Goods Manufacturing
+*List of tasks:*
+Operation monitoring-watching gauges,dials or other indicators to make sure a machine is working properly.
+Monitoring: Monitoring/assessing performance of yourself,other individuals, or organizations to make improvements.
+Operation and control- Controlling operations of equipment or systems.
+
+*List of skills:*
+Analytic or scientific software- HotFlo! Die-Shot monitor
+Computer aided manufacturing CAM software 
+Industrial Control Software-FANUC Robots iRVision.
+*Required credentials and years of experience*
+-One year of work experience in the sector.
+-Skills based on computer and Software systems.
+-Less than a high school diploma or equivalent.
+-One year of work experience in the sector.
+FULL TIME job, flexible time 40 hours/week
+*Location
+*Remote, Online
+Salary
+$33,000 yearly
+
+The job offer is for 6 vacancies. 
+
 ***
 
 ## Task 6
