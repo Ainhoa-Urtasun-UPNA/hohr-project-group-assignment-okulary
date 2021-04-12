@@ -1,9 +1,11 @@
 ## OKULARY
 Okulary is a company devoted to the manufacturing of sunglasses with 3dprinters. All the materias are recycled and we follow a sustainable production process.
 # INDUSTRY
-The industry of our company is the Ophtilmatic Goods Manufacturing.
+The industry of our company is the Ophtilmatic Goods Manufacturing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
