@@ -208,6 +208,8 @@ The job offer is for 3 vacancies.
 
 After doing the predictions of employee's demand and employee´s need, we have decided that the number of managers needed is 3. Their task would be to lead the company to achieve sales objectives and also, providing the firm a good organization and a good performance
 
+*Automotion Risk: 3%
+
 ### Job posting for Engineers:
 *Job title*: ENGINEER
 Occupation: Materials Engineer 17-2131.00
@@ -234,7 +236,9 @@ FULL TIME job, flexible time 40 hours/week
 *Remote, Online
 Salary
 $90,000 yearly
-The job offering is 10 jobs 
+The job offering is 10 jobs
+
+*Automotion Risk: 2%
 
 
 ### Job posting for Operators:
@@ -262,6 +266,8 @@ Salary
 $33,000 yearly
 
 The job offer is for 6 vacancies. 
+
+*Automotion Risk: 95%
 
 ***
 
