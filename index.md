@@ -10,7 +10,8 @@ Some examples of products of this industry are:
 - Eyeglass frame
 
 
-![Image](images(1).jpg)  ![Image](images.jpg)
+![Image](images(1).jpg)  
+![Image](images.jpg)
 
 ## PRODUCTION PROCESS
 
