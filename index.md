@@ -15,6 +15,24 @@ Some examples of products of this industry are:
 
 ## PRODUCTION PROCESS
 
+### PRIMARY ACTIVITIES
+**Engineering activities :** 
+- Design process
+- Resarch and Development activities 
+- Product development 
+- Prototyping activities
+**Operations activities:** 
+- 3d printers operators 
+- Finishing and quality process activities
+- Assembly activities 
+- Prodtction works
+  
+### SUPPORT ACTIVITIES
+- Management 
+- Human Resources management activities 
+- Finance services activities
+- Sales
+
 
 
 
