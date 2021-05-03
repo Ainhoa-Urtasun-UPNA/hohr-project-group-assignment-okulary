@@ -265,7 +265,7 @@ FULL TIME job, flexible time 40 hours/week
 Salary
 $33,000 yearly
 
-The job offer is for 6 vacancies. 
+The job offer is for 4 vacancies. 
 
 *Automotion Risk: 95%
 
