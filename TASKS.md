@@ -175,7 +175,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
-The need for employees is predicted to be 4 managers, 12 engineers and 7 operators.So, as the foremer prediction of the number of employees which was going to be 1 manager, 1 engineer and 2 operators, it is dected some mistmatches: there is a shortage of 3 managers, a shortage of 10 engenieers and a shortage of 5 operators.
+The need for employees is predicted to be 4 managers, 12 engineers and 7 operators.So, as the foremer prediction of the number of employees which was going to be 1 manager, 1 engineer and 2 operators, it is dected some mistmatches: there is a shortage of 3 managers, a shortage of 11 engenieers and a shortage of 5 operators.
 Thus, in order to solve this problem, we would have to do some upsizing strategies such as hiring more people, increasing the worktime, and increasing overtime.
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
