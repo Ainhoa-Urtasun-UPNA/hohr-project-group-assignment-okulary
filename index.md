@@ -33,6 +33,7 @@ Some examples of products of this industry are:
 
 ## JOB OFFERS
  ![Image](Recursos proyecto okulary2.png)
- ![Image](Recursos proyecto okularyeingineer.png)
- ![Image](Recursos proyecto okularyoperator.png)
+ ![Image](Recursos proyecto okularyengineer.png)
+ ![Image](Recursos proyecto okulary3doperator.png)
+ 
 
