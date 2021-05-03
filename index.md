@@ -1,5 +1,6 @@
 # OKULARY
 Okulary is a company devoted to the manufacturing of sunglasses with 3Dprinters. All the materias are recycled and we follow a sustainable production process.
+Our main objective is to produce low-cost sunglasses for everybody with an innovative technology as 3D printers.
  ![Image](Logotipo Restaurante Sushi.png)
 ## INDUSTRY
 The industry of our company is the Ophtilmatic Goods Manufacturing. NAICS code 33915.
