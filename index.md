@@ -52,14 +52,14 @@ Some examples of products of this industry are:
 
 
 ## ESTIMATIONS
- ![Image](Future ocupations1.png)
+ ![Image](Future ocupations11.png)
 
 
 
 
 ## JOB OFFERS
  ![Image](Recursos proyecto okulary2.png)
- ![Image](Recursos proyecto okularyengineer.png)
- ![Image](Recursos proyecto okulary3doperator2.png)
+ ![Image](Recursos proyecto okulary12.png)
+ ![Image](Recursos proyecto okulary13.png)
  
 
