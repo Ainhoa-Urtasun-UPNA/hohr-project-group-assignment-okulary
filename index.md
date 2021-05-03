@@ -21,6 +21,7 @@ Some examples of products of this industry are:
 - Resarch and Development activities 
 - Product development 
 - Prototyping activities
+
 **Operations activities:** 
 - 3d printers operators 
 - Finishing and quality process activities
