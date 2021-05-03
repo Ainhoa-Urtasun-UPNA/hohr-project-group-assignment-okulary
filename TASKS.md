@@ -261,7 +261,7 @@ Industrial Control Software-FANUC Robots iRVision.
 -One year of work experience in the sector.
 FULL TIME job, flexible time 40 hours/week
 *Location
-*Remote, Online
+Pamplona
 Salary
 $33,000 yearly
 
